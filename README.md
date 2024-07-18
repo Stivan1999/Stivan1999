@@ -9,6 +9,8 @@
 - <b>Project #3 (coming soon)</b>
 <h2>📺 Google Cybersecurity Professional Certificate </h2>
 
+- [Used Linux commands to manage file permissions]
+
 - [test](https://github.com/Stivan1999/portfolio-website)
 <h2>🔐 Cybersecurity training & Projects</h2>
 
