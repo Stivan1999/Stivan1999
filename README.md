@@ -1,4 +1,4 @@
-<h1>Hi, I'm Youssef! <br/>aspiring Cybersecurity professional!</h1>
+<h1>Hi, I'm Youssef! <br/></h1>
 
 <h2>👨‍💻 Python projects:</h2>
 
