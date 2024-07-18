@@ -18,4 +18,4 @@
 [<img align="left" alt="Youssef | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/youssef_stivan/
-[linkedin]: www.linkedin.com/in/youssef-stivan
+[linkedin]: https://www.linkedin.com/in/youssef-stivan
