@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Hi, I'm Youssef! <br/>aspiring Cybersecurity professional!</h1>
 
-<!--
-**Stivan1999/Stivan1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Python projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Project #1</b>
+  - [DDOP Extractor](https://github.com/Stivan1999/python_project_1)
+- <b>project #2</b>
+  - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
+- <b>Project #3 (coming soon)</b>
+<h2>📺 Google Cybersecurity Professional Certificate </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [test](https://github.com/Stivan1999/portfolio-website)
+<h2>🔐 Cybersecurity training & Projects</h2>
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Youssef | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Youssef | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/youssef_stivan/
+[linkedin]: www.linkedin.com/in/youssef-stivan
