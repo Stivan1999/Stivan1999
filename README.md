@@ -6,7 +6,8 @@
   - [DDOP Extractor](https://github.com/Stivan1999/python_project_1)
 - <b>project #2</b>
   - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
-- <b>Project #3 (coming soon)</b>
+- <b>Project #3</b>
+  - [port scanner using pthon in kali linux](https://github.com/Stivan1999/port-scanner)
 <h2>📺 Google Cybersecurity Professional Certificate </h2>
 
 - [Used Linux commands to manage file permissions](https://github.com/Stivan1999/File-permissions-in-Linux)
