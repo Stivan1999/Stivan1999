@@ -17,6 +17,8 @@
 - [Conducted a security audit for a business](https://github.com/Stivan1999/Conduct-a-security-audit)
 <h2>🔐 Cybersecurity training & Projects</h2>
 
+  - [Wireshark for Beginners: Capture Packets](https://github.com/Stivan1999/wireshark-notes-and-guided-projects)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Youssef | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
