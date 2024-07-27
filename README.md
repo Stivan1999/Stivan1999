@@ -13,6 +13,7 @@
 - [Used Linux commands to manage file permissions](https://github.com/Stivan1999/File-permissions-in-Linux)
 - [Applied filter to SQL queries](https://github.com/Stivan1999/filters-and-SQL-queries)
 - [Analyzed a vulnerable system for a business](https://github.com/Stivan1999/portfolio-website)
+- [Conducted a security audit for a business](https://github.com/Stivan1999/Conduct-a-security-audit)
 <h2>🔐 Cybersecurity training & Projects</h2>
 
 <h2> 🤳 Connect with me:</h2>
