@@ -7,7 +7,7 @@
 - <b>project #2</b>
   - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
 - <b>Project #3</b>
-  - [port scanner using pthon in kali linux](https://github.com/Stivan1999/port-scanner)
+  - [port scanner using pthon in kali linux](https://github.com/Stivan1999/port-scanner) (To be completed..)
 
 <h2>📗 GRC related projects & Training </h2>
 
