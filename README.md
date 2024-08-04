@@ -18,7 +18,8 @@
 <h2>🔐 Cybersecurity training & Projects</h2>
 
   - [Wireshark for Beginners: Capture Packets](https://github.com/Stivan1999/wireshark-notes-and-guided-projects)
-  - [Introdcution to Network Analysis Blue Team course](https://github.com/Stivan1999/Introduction-to-Network-Analysis-Blue-team-course-) (In progress...)
+  - [Introdcution to Network Analysis Blue Team course](https://github.com/Stivan1999/Introduction-to-Network-Analysis-Blue-team-course-)
+  - [Hack The Box Intro to Network Analysis](https://academy.hackthebox.com/achievement/1384557/81)
 
 <h2> 🤳 Connect with me:</h2>
 
