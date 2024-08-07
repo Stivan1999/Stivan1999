@@ -17,6 +17,8 @@
   
 <h2>⛅ Cloud Security Projects </h2>
 
+- [Created a SOC and Honeynet environment in Azure](https://github.com/Stivan1999/Azure-SOC-Honeynet-environment-) (In progress....)
+
 
 <h2>🛠 Technical Skills & Tools (with documentation)</h2>
 
@@ -29,7 +31,6 @@
 <h2>📝 Certifications</h2>
 
 - [Google Cybersecurity Professional Cerificate](https://www.credly.com/badges/8f760c7c-c99f-4700-b98d-d9d0e3ff1c27/public_url)
-- TryHackeMe Security Engineer (In progress...)
 - GRC Mastery Training Course (In progress...)
 
 
