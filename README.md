@@ -9,10 +9,10 @@
 - <b>Project #3</b>
   - [port scanner using pthon in kali linux](https://github.com/Stivan1999/port-scanner) (To be completed..)
 
-<h2>📗 GRC related projects & Training </h2>
+<h2>📗 GRC and non-technical related projects & Training </h2>
 
-- [Analyzed a vulnerable system for a business](https://github.com/Stivan1999/vulnerability-assessment-)
-- [Conducted a security audit for a business](https://github.com/Stivan1999/Conduct-a-security-audit)
+- [Analyzed a vulnerable system for a business](https://github.com/Stivan1999/vulnerability-assessment-) (Goole Cybersecurity Certificate)
+- [Conducted a security audit for a business](https://github.com/Stivan1999/Conduct-a-security-audit) (Goole Cybersecurity Certificate)
 - Conducting an enterprise wide NIST Cyber Security Assessment (In progress...)
   
 <h2>⛅ Cloud Security Projects </h2>
