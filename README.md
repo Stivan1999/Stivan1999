@@ -13,7 +13,6 @@
 
 - [Analyzed a vulnerable system for a business](https://github.com/Stivan1999/vulnerability-assessment-) (Goole Cybersecurity Certificate)
 - [Conducted a security audit for a business](https://github.com/Stivan1999/Conduct-a-security-audit) (Goole Cybersecurity Certificate)
-- Conducting an enterprise wide NIST Cyber Security Assessment (In progress...)
   
 <h2>⛅ Cloud Security Projects </h2>
 
@@ -31,7 +30,6 @@
 <h2>📝 Certifications</h2>
 
 - [Google Cybersecurity Professional Cerificate](https://www.credly.com/badges/8f760c7c-c99f-4700-b98d-d9d0e3ff1c27/public_url)
-- GRC Mastery Training Course (In progress...)
 
 
 <h2> 🤳 Connect with me:</h2>
