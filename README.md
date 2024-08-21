@@ -2,25 +2,14 @@
 
 <h2>👨‍💻 Python projects:</h2>
 
-- <b>Project #1</b>
-  - [DDOP Extractor](https://github.com/Stivan1999/python_project_1)
-- <b>project #2</b>
-  - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
-- <b>Project #3</b>
-  - [port scanner using pthon in kali linux](https://github.com/Stivan1999/port-scanner) (To be completed..)
-
-<h2>📗 GRC and non-technical related projects & Training </h2>
-
-- [Analyzed a vulnerable system for a business](https://github.com/Stivan1999/vulnerability-assessment-) (Goole Cybersecurity Certificate)
-- [Conducted a security audit for a business](https://github.com/Stivan1999/Conduct-a-security-audit) (Goole Cybersecurity Certificate)
-  
-<h2>⛅ Cloud Security Projects </h2>
-
-- [Created a SOC and Honeynet environment in Azure](https://github.com/Stivan1999/Azure-SOC-Honeynet-environment-) (In progress....)
+- [DDOP Extractor](https://github.com/Stivan1999/python_project_1)
+- [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
+- [port scanner using pthon in kali linux](https://github.com/Stivan1999/port-scanner) (To be completed..)
 
 
-<h2>🛠 Technical Skills & Tools (with documentation)</h2>
+<h2>🛠 Foundational knowledge & tools</h2>
 
+  - [setting up Kali Linux ]
   - [Wireshark for Beginners: Capture Packets](https://github.com/Stivan1999/wireshark-notes-and-guided-projects)
   - [Introdcution to Network Analysis Blue Team course](https://github.com/Stivan1999/Introduction-to-Network-Analysis-Blue-team-course-) (Wireshark & Tcpdump)
   - [Hack The Box Intro to Network Analysis](https://academy.hackthebox.com/achievement/1384557/81)
