@@ -9,12 +9,11 @@
 
 <h2>🛠 Foundational knowledge & tools</h2>
 
-  - [setting up Kali Linux ]
+  - [setting up Kali Linux ](https://github.com/Stivan1999/setting-up-Kali-Linux)
   - [Wireshark for Beginners: Capture Packets](https://github.com/Stivan1999/wireshark-notes-and-guided-projects)
   - [Introdcution to Network Analysis Blue Team course](https://github.com/Stivan1999/Introduction-to-Network-Analysis-Blue-team-course-) (Wireshark & Tcpdump)
   - [Hack The Box Intro to Network Analysis](https://academy.hackthebox.com/achievement/1384557/81)
   - [Used Linux commands to manage file permissions](https://github.com/Stivan1999/File-permissions-in-Linux)
-  - [Applied filter to SQL queries](https://github.com/Stivan1999/filters-and-SQL-queries)
 
 <h2>📝 Certifications</h2>
 
