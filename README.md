@@ -6,6 +6,10 @@
 - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
 - [port scanner using pthon in kali linux](https://github.com/Stivan1999/port-scanner) (To be completed..)
 
+<h2>Zero To Mastery Ethical Hacking Training</h2>
+
+- Reconnaissance & Information Gathering 
+
 
 <h2>🛠 Foundational knowledge & tools</h2>
 
