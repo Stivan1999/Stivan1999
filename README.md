@@ -6,10 +6,6 @@
 - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
 
 
-<h2>🛠 Foundational courses</h2>
-
-  - Hack The Box Linux Fundamentals 
-
 <h2>📝 Certifications</h2>
 
 - [Google Cybersecurity Professional Cerificate](https://www.credly.com/badges/8f760c7c-c99f-4700-b98d-d9d0e3ff1c27/public_url)
