@@ -8,7 +8,7 @@
 
 <h2>📝 Certifications</h2>
 
-- [Google Cybersecurity Professional Cerificate](https://www.credly.com/badges/8f760c7c-c99f-4700-b98d-d9d0e3ff1c27/public_url)
+- [Google AI Essentials]
 
 
 <h2> 🤳 Connect with me:</h2>
