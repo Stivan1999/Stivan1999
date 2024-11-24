@@ -5,10 +5,19 @@
 - [DDOP Extractor](https://github.com/Stivan1999/python_project_1)
 - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
 
+<h2>☁ AWS and cloud Projects</h2>
+
+- End-to-End Webb App with AWS (In progress...)
+- 
+
+<h2>🔬AWS cloud labs</h2>
+
+- 
 
 <h2>📝 Certifications</h2>
 
 - [Google AI Essentials](https://www.credly.com/badges/7321607a-fa5e-4a4b-aafe-93c76f67a0b8/public_url)
+- AWS Certified Cloud Practitioner (Planned...)
 
 
 <h2> 🤳 Connect with me:</h2>
