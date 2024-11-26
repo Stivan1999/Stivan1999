@@ -12,7 +12,8 @@
 
 <h2>🔬AWS cloud labs</h2>
 
-- 
+- Hosted a website on Amazon S3
+- Visualized data with QuickSight 
 
 <h2>📝 Certifications</h2>
 
