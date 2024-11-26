@@ -10,7 +10,7 @@
 - End-to-End Webb App with AWS (In progress...)
 - 
 
-<h2>🔬AWS cloud labs</h2>
+<h2>🔬AWS cloud labs (Learning to pass the cloud practitioner exam)</h2>
 
 - Hosted a website on Amazon S3
 - Visualized data with QuickSight 
