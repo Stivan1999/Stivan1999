@@ -12,7 +12,7 @@
 
 <h2>🔬AWS cloud labs (Learning to pass the cloud practitioner exam)</h2>
 
-- Hosted a website on Amazon S3
+- [Hosted a website on Amazon S3](https://github.com/Stivan1999/AWS-S3)
 - Visualized data with QuickSight 
 
 <h2>📝 Certifications</h2>
