@@ -15,6 +15,7 @@
 - [Hosted a website on Amazon S3](https://github.com/Stivan1999/AWS-S3)
 - Visualized data with QuickSight
 - Cloud Security with AWS IAM
+- [Visualize a Relational Database in AWS](https://github.com/Stivan1999/Visualize-a-Relational-Database)
 
 <h2>📝 Certifications</h2>
 
