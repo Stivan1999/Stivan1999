@@ -17,6 +17,7 @@
 - Cloud Security with AWS IAM
 - [Visualize a Relational Database in AWS](https://github.com/Stivan1999/Visualize-a-Relational-Database)
 - [Aurora Database with EC2](https://github.com/Stivan1999/Aurora-Database-with-EC2)
+- [Connect a Web App with Aurora](https://github.com/Stivan1999/Connecting-web-app-with-aurora)
 
 <h2>📝 Certifications</h2>
 
