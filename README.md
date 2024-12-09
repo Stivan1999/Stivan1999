@@ -16,6 +16,7 @@
 - Visualized data with QuickSight
 - Cloud Security with AWS IAM
 - [Visualize a Relational Database in AWS](https://github.com/Stivan1999/Visualize-a-Relational-Database)
+- [Aurora Database with EC2](https://github.com/Stivan1999/Aurora-Database-with-EC2)
 
 <h2>📝 Certifications</h2>
 
