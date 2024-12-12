@@ -5,24 +5,14 @@
 - [DDOP Extractor](https://github.com/Stivan1999/python_project_1)
 - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
 
-<h2>☁ AWS and cloud Projects</h2>
 
-- End-to-End Webb App with AWS (In progress...)
-- 
+<h2>🔬Working with AI in AWS</h2>
 
-<h2>🔬AWS cloud labs (Learning to pass the cloud practitioner exam)</h2>
-
-- [Hosted a website on Amazon S3](https://github.com/Stivan1999/AWS-S3)
-- Visualized data with QuickSight
-- Cloud Security with AWS IAM
-- [Visualize a Relational Database in AWS](https://github.com/Stivan1999/Visualize-a-Relational-Database)
-- [Aurora Database with EC2](https://github.com/Stivan1999/Aurora-Database-with-EC2)
-- [Connect a Web App with Aurora](https://github.com/Stivan1999/Connecting-web-app-with-aurora)
+- [Building a Chatbot with Amazon Lex]()
 
 <h2>📝 Certifications</h2>
 
 - [Google AI Essentials](https://www.credly.com/badges/7321607a-fa5e-4a4b-aafe-93c76f67a0b8/public_url)
-- AWS Certified Cloud Practitioner (Planned...)
 
 
 <h2> 🤳 Connect with me:</h2>
