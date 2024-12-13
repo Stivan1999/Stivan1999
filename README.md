@@ -6,9 +6,9 @@
 - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
 
 
-<h2>🔬Working with AI in AWS</h2>
+<h2>Creating a Chatbot using AWS Lex service</h2>
 
-- [Building a Chatbot with Amazon Lex]()
+- [Building a Chatbot with Amazon Lex](https://learn.nextwork.org/portfolio/documents/5jOAlCWgGdlrtA6IIieE)
 
 <h2>📝 Certifications</h2>
 
