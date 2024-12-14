@@ -9,7 +9,7 @@
 <h2>Creating a Chatbot using AWS Lex service</h2>
 
 - [Building a Chatbot with Amazon Lex](https://learn.nextwork.org/portfolio/documents/5jOAlCWgGdlrtA6IIieE)
-- [Addig Custom Slots to the Chatbot]
+- [Addig Custom Slots to the Chatbot](https://learn.nextwork.org/portfolio/documents/Fq5w7IUF9PedTYS5zM9m)
 
 <h2>📝 Certifications</h2>
 
