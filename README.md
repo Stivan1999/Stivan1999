@@ -5,6 +5,10 @@
 - [DDOP Extractor](https://github.com/Stivan1999/python_project_1)
 - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
 
+<h2>:speech_balloon: Prompt Engineering</h2>
+
+- Building a Snake Game using ChatGPT 
+
 <h2>:robot: working with Generative AI</h2>
 
 - Building AI Apps with the OpenAI API: GPT, DALL-E & Whisper [Planned...]
