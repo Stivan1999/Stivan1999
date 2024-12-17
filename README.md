@@ -7,7 +7,8 @@
 
 <h2>:speech_balloon: Prompt Engineering</h2>
 
-- Building a Snake Game using ChatGPT 
+- Google Prompting Essentials [In progress...]
+- 
 
 <h2>:robot: working with Generative AI</h2>
 
