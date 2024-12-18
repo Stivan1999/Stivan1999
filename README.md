@@ -5,11 +5,6 @@
 - [DDOP Extractor](https://github.com/Stivan1999/python_project_1)
 - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
 
-<h2>:speech_balloon: Prompt Engineering</h2>
-
-- Google Prompting Essentials [In progress...]
-- 
-
 <h2>:robot: working with Generative AI</h2>
 
 - Building AI Apps with the OpenAI API: GPT, DALL-E & Whisper [Planned...]
@@ -29,8 +24,8 @@
 <h2>📝 Certifications</h2>
 
 - [Google AI Essentials](https://www.credly.com/badges/7321607a-fa5e-4a4b-aafe-93c76f67a0b8/public_url)
-- AWS Cloud Practitioner (In progress....)
-
+- AWS Cloud Practitioner (Planned)
+- Google Prompting Esentials (In progress..)
 
 <h2> 🤳 Connect with me:</h2>
 
