@@ -16,7 +16,8 @@
 
 <h2>Multi-Class Text Classification Model using AWS SageMaker</h2>
 
-- AWS Environment Setup
+- [Project Introduction](https://github.com/Stivan1999/SageMaker-Project-Introduction)
+- [AWS Environment Setup]() 
 
 <h2>:cloud::zap: AI/ML AWS labs and projects</h2>
 
