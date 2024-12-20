@@ -25,6 +25,10 @@
 - Deploying a Machine Learning Model with Amazon SageMaker [planned...]
 - Analyzing Text and NLP with Textract and Comprehend [Planned...]
 
+<h2>:repeat_one: DevOps with AWS</h2>
+
+- [Setting up a Web App in the Cloud](https://learn.nextwork.org/portfolio/documents/UScSejfKLiBLGtK2L3kk)
+
 <h2>📝 Certifications</h2>
 
 - [Google AI Essentials](https://www.credly.com/badges/7321607a-fa5e-4a4b-aafe-93c76f67a0b8/public_url)
