@@ -29,7 +29,6 @@
 
 - [Google AI Essentials](https://www.credly.com/badges/7321607a-fa5e-4a4b-aafe-93c76f67a0b8/public_url)
 - AWS Cloud Practitioner (Planned)
-- Google Prompting Esentials (In progress..)
 
 <h2> 🤳 Connect with me:</h2>
 
