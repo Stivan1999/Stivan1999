@@ -22,7 +22,7 @@
 
 <h2>:cloud::zap: AI/ML AWS labs and projects</h2>
 
-- Understanding Machine Leaning Services on AWS [Planned...]
+- [Understanding Machine Leaning Services on AWS](https://github.com/Stivan1999/AWS-Machine-Learning-Services/blob/main/README.md) [In Progress...]
 - Deploying a Machine Learning Model with Amazon SageMaker [planned...]
 - Analyzing Text and NLP with Textract and Comprehend [Planned...]
 
