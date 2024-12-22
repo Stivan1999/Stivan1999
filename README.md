@@ -19,7 +19,7 @@
 - [Project Introduction](https://github.com/Stivan1999/SageMaker-Project-Introduction)
 - [AWS Environment Setup](https://github.com/Stivan1999/AWS-SageMaker-Project-Setup/blob/main/README.md)
 - [Gathering the data](https://github.com/Stivan1999/SageMakerData-Gathering/blob/main/README.md)
-- [Exploratory Data Analysis]()
+- [Exploratory Data Analysis](https://github.com/Stivan1999/SageMaker-Exploratory-Data-Analysis/blob/main/README.md)
 
 <h2>:cloud::zap: AI/ML AWS labs and projects</h2>
 
