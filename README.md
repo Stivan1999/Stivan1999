@@ -1,4 +1,6 @@
 <h1>Hi, I'm Youssef! <br/></h1>
+I have a background in Software Engineering. I have been building my skills with Generative AI and Cloud computing
+through hands-on projects and Labs. 
 
 <h2>👨‍💻 Python Scripting projects:</h2>
 
@@ -23,9 +25,9 @@
 
 <h2>:cloud::zap: AI/ML AWS labs and projects</h2>
 
-- [Understanding Machine Leaning Services on AWS](https://github.com/Stivan1999/AWS-Machine-Learning-Services/blob/main/README.md) [In Progress...]
+- [Using AWS Recognition and Textract](https://github.com/Stivan1999/AWS-Machine-Learning-Services/blob/main/README.md) [In Progress...]
 - Deploying a Machine Learning Model with Amazon SageMaker [planned...]
-- Analyzing Text and NLP with Textract and Comprehend [Planned...]
+-  [Planned...]
 
 <h2>:repeat_one: DevOps with AWS</h2>
 
