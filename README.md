@@ -9,7 +9,7 @@ through hands-on projects and Labs.
 
 <h2> Understanding networking on AWS</h2>
 
-- [Building a Virtual Private Cloud]()
+- [Building a Virtual Private Cloud](https://learn.nextwork.org/portfolio/documents/sXC47lI8Zdeq2MSUYffS)
 - [VPC Traffic Flow and Security]()
 
 
