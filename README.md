@@ -18,6 +18,10 @@ through hands-on projects and Labs.
 - [Encrypting Data with AWS]()
 
 
+<h2> Exploring database services on AWS</h2>
+
+- [Visualizing a Relational Database]()
+  
 <h2>:cloud::zap: AI/ML AWS labs and projects</h2>
 
 - [Using AWS Recognition and Textract](https://github.com/Stivan1999/AWS-Machine-Learning-Services/blob/main/README.md) [In Progress...]
