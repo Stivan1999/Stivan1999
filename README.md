@@ -1,6 +1,6 @@
 <h1>Hi, I'm Youssef! <br/></h1>
-I have a background in Software Engineering. I have been building my skills with Generative AI and Cloud computing
-through hands-on projects and Labs. 
+I have a background in Software Engineering. I have been exploring the cloud and building my skills doing hands-on
+projects on AWS. I am also improving my documentation skills by writing about the projects I am doing. 
 
 <h2>👨‍💻 Python Scripting projects:</h2>
 
