@@ -10,7 +10,7 @@ projects on AWS. I am also improving my documentation skills by writing about th
 <h2> Understanding networking on AWS</h2>
 
 - [Building a Virtual Private Cloud](https://learn.nextwork.org/portfolio/documents/sXC47lI8Zdeq2MSUYffS)
-- [VPC Traffic Flow and Security](https://learn.nextwork.org/portfolio/documents/rGLXwMJwVLVOKyXZrIbq)
+- [VPC Traffic Flow and Security](https://github.com/Stivan1999/VPC-Flow-Traffic-and-Security/blob/main/README.md)
 
 
 <h2>🔐 Security on AWS</h2>
