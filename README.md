@@ -11,7 +11,7 @@ projects on AWS. I am also improving my documentation skills by writing about th
 
 - [Building a Virtual Private Cloud](https://learn.nextwork.org/portfolio/documents/sXC47lI8Zdeq2MSUYffS)
 - [VPC Traffic Flow and Security](https://github.com/Stivan1999/VPC-Flow-Traffic-and-Security/blob/main/README.md)
-- [Creating a Private Subnet]()
+- [Creating a Private Subnet](https://github.com/Stivan1999/AWS-Private-Subnet/blob/main/README.md)
 
 
 <h2>🔐 Security on AWS</h2>
