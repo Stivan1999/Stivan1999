@@ -7,11 +7,12 @@ projects on AWS. I am also improving my documentation skills by writing about th
 - [DDOP Extractor](https://github.com/Stivan1999/python_project_1)
 - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
 
-<h2> Understanding networking on AWS</h2>
+<h2>🚕 Understanding networking on AWS</h2>
 
 - [Building a Virtual Private Cloud](https://learn.nextwork.org/portfolio/documents/sXC47lI8Zdeq2MSUYffS)
 - [VPC Traffic Flow and Security](https://github.com/Stivan1999/VPC-Flow-Traffic-and-Security/blob/main/README.md)
 - [Creating a Private Subnet](https://github.com/Stivan1999/AWS-Private-Subnet/blob/main/README.md)
+- [Launching VPC Resources]()
 
 
 <h2>🔐 Security on AWS</h2>
