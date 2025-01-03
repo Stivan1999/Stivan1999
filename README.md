@@ -13,7 +13,7 @@ projects on AWS. I am also improving my documentation skills by writing about th
 - [VPC Traffic Flow and Security](https://github.com/Stivan1999/VPC-Flow-Traffic-and-Security/blob/main/README.md)
 - [Creating a Private Subnet](https://github.com/Stivan1999/AWS-Private-Subnet/blob/main/README.md)
 - [Launching VPC Resources](https://github.com/Stivan1999/launching-vpc-resources/tree/main)
-- [Testing VPC Connectivity]()
+- [Testing VPC Connectivity](https://github.com/Stivan1999/Testing-VPC-Connectivity/tree/main)
 
 
 <h2>🔐 Security on AWS</h2>
