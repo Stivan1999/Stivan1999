@@ -18,7 +18,7 @@ projects on AWS. I am also improving my documentation skills by writing about th
 
 <h2>🔐 Security on AWS</h2>
 
-- [Encrypting Data with AWS](https://github.com/Stivan1999/encrypting-data-with-aws-kms/tree/main)
+- [Encrypting Data with AWS KMS](https://github.com/Stivan1999/encrypting-data-with-aws-kms/tree/main)
 
 
 <h2> Exploring database services on AWS</h2>
