@@ -7,7 +7,7 @@ projects on AWS. I am also improving my documentation skills by writing about th
 - [DDOP Extractor](https://github.com/Stivan1999/python_project_1)
 - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
 
-<h2>💻Working withcompute services on AWS</h2>
+<h2>💻Working with compute services on AWS</h2>
 
 - [Containers on Elastic Beanstalk](https://github.com/Stivan1999/Containers-on-elastic-beanstalk/blob/main/README.md)
 
@@ -25,19 +25,20 @@ projects on AWS. I am also improving my documentation skills by writing about th
 - [Encrypting Data with AWS KMS](https://github.com/Stivan1999/encrypting-data-with-aws-kms/tree/main)
 
 
-<h2> Exploring database services on AWS</h2>
+<h2>💾 Exploring database services on AWS</h2>
 
 - [Visualizing a Relational Database](https://github.com/Stivan1999/Visualize-a-Relational-Database)
 - [Aurora Database with EC2]()
+
+<h2>3️⃣ Three-Tier Architecture on AWS </h2>
+
+- [Website Delivery with CloudFront]()(In progress....)
   
 <h2>:cloud::zap: AI/ML AWS labs and projects</h2>
 
-- [Using AWS Recognition and Textract](https://github.com/Stivan1999/AWS-Machine-Learning-Services/blob/main/README.md) [In Progress...]
+- [Using AWS Recognition and Textract](https://github.com/Stivan1999/AWS-Machine-Learning-Services/blob/main/README.md)
 - Deploying a Machine Learning Model with Amazon SageMaker [planned...]
 
-<h2>:repeat_one: DevOps with AWS</h2>
-
-- [Setting up a Web App in the Cloud](https://learn.nextwork.org/portfolio/documents/UScSejfKLiBLGtK2L3kk)
 
 <h2>📝 Certifications</h2>
 
