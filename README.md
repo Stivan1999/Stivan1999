@@ -30,7 +30,7 @@ projects on AWS. I am also improving my documentation skills by writing about th
 <h2>💾 Exploring database services on AWS</h2>
 
 - [Visualizing a Relational Database](https://github.com/Stivan1999/Visualize-a-Relational-Database)
-- [Aurora Database with EC2]()
+- [Aurora Database with EC2](https://github.com/Stivan1999/Aurora-Database-with-EC2)
 
   
 <h2>:cloud::zap: AI/ML AWS labs and projects</h2>
