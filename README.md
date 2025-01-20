@@ -1,14 +1,19 @@
 <h1>Hi, I'm Youssef! <br/></h1>
-I have a background in Electrical Software Engineering. I have been exploring the cloud and building my skills doing hands-on
-projects on AWS. I am also improving my documentation skills by writing about the projects I am doing. 
+I have a background in Electrical and Software Engineering. I have been exploring the cloud and building my skills doing hands-on
+projects on AWS. I am also improving my documentation skills by writing about the projects I am doing.
+
+<br>I love learning more about technology and how it works behind the scenes. I also enjoy explaining tecnical concepts
+to others. My ideal role would invlove working more with people, understanding their needs, translating those needs into technical solutions, 
+and helping them solve technical problems in the cloud. 
 
 <h2>👨‍💻 Python Scripting projects:</h2>
 
 - [DDOP Extractor](https://github.com/Stivan1999/python_project_1)
 - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
 
-<h2>💻Working with compute services on AWS</h2>
+<h2>💻Working with compute & storage services on AWS</h2>
 
+- [Hosting a static website with S3](https://github.com/Stivan1999/AWS-S3)
 - [Containers on Elastic Beanstalk](https://github.com/Stivan1999/Containers-on-elastic-beanstalk/blob/main/README.md)
 - [APIs with Lambda & API Gateway](https://github.com/Stivan1999/serverless-on-AWS/tree/main)
 
@@ -33,10 +38,6 @@ projects on AWS. I am also improving my documentation skills by writing about th
 - [Aurora Database with EC2](https://github.com/Stivan1999/Aurora-Database-with-EC2)
 - [Connecting A Web App with Aurora](https://github.com/Stivan1999/connecting-a-web-app-with-aurora)
 
-
-<h2>🔄 Devops and IaC on AWS (more labs/projects to come)</h2>
-
-- [Creating S3 buckets with Terraform]()
   
 <h2>:cloud::zap: AI/ML AWS labs and projects</h2>
 
