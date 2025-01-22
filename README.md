@@ -24,7 +24,7 @@ and helping them solve technical problems in the cloud.
 - [Creating a Private Subnet](https://github.com/Stivan1999/AWS-Private-Subnet/blob/main/README.md)
 - [Launching VPC Resources](https://github.com/Stivan1999/launching-vpc-resources/tree/main)
 - [Testing VPC Connectivity](https://github.com/Stivan1999/Testing-VPC-Connectivity/tree/main)
-- [VPC Peering]()
+- [VPC Peering](https://github.com/Stivan1999/VPC-peering)
 - [Website Delivery with AWS CloudFront](https://github.com/Stivan1999/website-delivery-with-aws-cloudfront/tree/main)
 
 
