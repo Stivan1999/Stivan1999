@@ -25,6 +25,7 @@ and helping them solve technical problems in the cloud.
 - [Launching VPC Resources](https://github.com/Stivan1999/launching-vpc-resources/tree/main)
 - [Testing VPC Connectivity](https://github.com/Stivan1999/Testing-VPC-Connectivity/tree/main)
 - [VPC Peering](https://github.com/Stivan1999/VPC-peering)
+- [VPC Monitoring with Flow Logs](https://github.com/Stivan1999/VPC-Monitoring-with-Flow-Logs)
 - [Website Delivery with AWS CloudFront](https://github.com/Stivan1999/website-delivery-with-aws-cloudfront/tree/main)
 
 
