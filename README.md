@@ -1,10 +1,9 @@
 <h1>Hi, I'm Youssef! <br/></h1>
-I have a background in Electrical and Software Engineering. I have been exploring the cloud and building my skills doing hands-on
-projects on AWS. I am also improving my documentation skills by writing about the projects I am doing.
+I am an engineer with a background in Electrical and Software Engineering, along with 2.5 years of experience working with production code in Python and Java. My career has strengthened my technical skills, teamwork, and ability to communicate complex ideas clearly.
 
-<br>I love learning more about technology and how it works behind the scenes. I also enjoy explaining tecnical concepts
-to others. My ideal role would invlove working more with people, understanding their needs, translating those needs into technical solutions, 
-and helping them solve technical problems in the cloud. 
+<br>Recently, I’ve been exploring cloud computing, building hands-on AWS projects to expand my skills. I enjoy documenting my work, creating clear technical resources, and simplifying complex concepts for others. My passion lies in collaborating with people, understanding their needs, and delivering effective cloud-based solutions.
+
+I’ve earned the AWS Cloud Practitioner certification and am preparing for the AWS Solutions Architect – Associate certification. My goal is to secure a cloud-focused role where I can leverage my technical expertise and problem-solving mindset to create impactful solutions.
 
 <h2>👨‍💻 Python Scripting projects:</h2>
 
@@ -33,6 +32,7 @@ and helping them solve technical problems in the cloud.
 <h2>🔐 Security on AWS</h2>
 
 - [Encrypting Data with AWS KMS](https://github.com/Stivan1999/encrypting-data-with-aws-kms/tree/main)
+- [Threat Detction with GuardDuty]()(In progress...)
 
 
 <h2>💾 Exploring database services on AWS</h2>
@@ -45,12 +45,13 @@ and helping them solve technical problems in the cloud.
 <h2>:cloud::zap: AI/ML AWS labs and projects</h2>
 
 - [Using AWS Recognition and Textract](https://github.com/Stivan1999/AWS-Machine-Learning-Services/blob/main/README.md)
-- Deploying a Machine Learning Model with Amazon SageMaker [planned...]
+- [Transcribe Audio Files with AI]()(Planned)
 
 
 <h2>📝 Certifications</h2>
 
 - [Google AI Essentials](https://www.credly.com/badges/7321607a-fa5e-4a4b-aafe-93c76f67a0b8/public_url)
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/8f760c7c-c99f-4700-b98d-d9d0e3ff1c27/public_url)
 - AWS Cloud Practitioner (Planned)
 
 <h2> 🤳 Connect with me:</h2>
