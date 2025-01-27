@@ -32,7 +32,7 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 <h2>🔐 Security on AWS</h2>
 
 - [Encrypting Data with AWS KMS](https://github.com/Stivan1999/encrypting-data-with-aws-kms/tree/main)
-- [Threat Detction with GuardDuty]()(In progress...)
+- [Threat Detction with GuardDuty](https://github.com/Stivan1999/AWS-GuardDuty/tree/main)
 
 
 <h2>💾 Exploring database services on AWS</h2>
