@@ -3,7 +3,7 @@ I am an engineer with a background in Electrical and Software Engineering, along
 
 <br>Recently, I’ve been exploring cloud computing, building hands-on AWS projects to expand my skills. I enjoy documenting my work, creating clear technical resources, and simplifying complex concepts for others. My passion lies in collaborating with people, understanding their needs, and delivering effective cloud-based solutions.
 
-I’ve earned the AWS Cloud Practitioner certification and am preparing for the AWS Solutions Architect – Associate certification. My goal is to secure a cloud-focused role where I can leverage my technical expertise and problem-solving mindset to create impactful solutions.
+I’ve earned the AWS Cloud Practitioner certification and am preparing for the AWS Certified Sysops adminstrator - Associate Certification. My goal is to secure a cloud-focused role where I can leverage my technical expertise and problem-solving mindset to help people solve problems in the cloud. 
 
 <h2>👨‍💻 Python Scripting projects:</h2>
 
