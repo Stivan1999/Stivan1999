@@ -53,7 +53,7 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 
 - [Google AI Essentials](https://www.credly.com/badges/7321607a-fa5e-4a4b-aafe-93c76f67a0b8/public_url)
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/8f760c7c-c99f-4700-b98d-d9d0e3ff1c27/public_url)
-- AWS Cloud Practitioner (Planned)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/16791b71-9505-41a7-84e5-c765c5f64467/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
