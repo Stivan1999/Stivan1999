@@ -46,7 +46,7 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 <h2>:cloud::zap: AI/ML AWS labs and projects</h2>
 
 - [Using AWS Recognition and Textract](https://github.com/Stivan1999/AWS-Machine-Learning-Services/blob/main/README.md) (needs updating...)
-- [Transcribe Audio Files with AI]()(Planned)
+- [Transcribe Audio Files with AI](https://github.com/Stivan1999/AWS-Transcribe/tree/main)
 
 
 <h2>📝 Certifications</h2>
