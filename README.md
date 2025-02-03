@@ -26,7 +26,7 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 - [VPC Peering](https://github.com/Stivan1999/VPC-peering)
 - [VPC Monitoring with Flow Logs](https://github.com/Stivan1999/VPC-Monitoring-with-Flow-Logs)
 - [Accessing S3 from a VPC](https://github.com/Stivan1999/Accessing-S3-from-a-VPC)
-- [VPC Endpoints](in progress...)
+- [VPC Endpoints](https://github.com/Stivan1999/VPC-Endpoints)
 - [Website Delivery with AWS CloudFront](https://github.com/Stivan1999/website-delivery-with-aws-cloudfront/tree/main)
 
 
