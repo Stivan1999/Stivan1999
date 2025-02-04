@@ -5,12 +5,18 @@ I am an engineer with a background in Electrical and Software Engineering, along
 
 I’ve earned the AWS Cloud Practitioner certification and am preparing for the AWS Certified Sysops adminstrator - Associate Certification. My goal is to secure a cloud-focused role where I can leverage my technical expertise and problem-solving mindset to help people solve problems in the cloud. 
 
-<h2>👨‍💻 Python Scripting projects:</h2>
+<h2>🐍 Python Scripting projects:</h2>
 
 - [DDOP Extractor](https://github.com/Stivan1999/python_project_1)
 - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
 
-<h2>💻Working with compute & storage services on AWS</h2>
+<h2>⌨️ Learning AWS CLI and IaC for automation</h2>
+
+- [building a serverless API for CRUD operations]()(in progress...)
+- [Creating an S3 bucket with Terraform]()(Planned)
+- [Provisioning AWS Resources using Terraform]()(Planned)
+
+<h2>💻 Working with compute & storage services on AWS</h2>
 
 - [Hosting a static website with S3](https://github.com/Stivan1999/AWS-S3)
 - [Containers on Elastic Beanstalk](https://github.com/Stivan1999/Containers-on-elastic-beanstalk/blob/main/README.md)
