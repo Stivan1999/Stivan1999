@@ -12,7 +12,7 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 
 <h2>⌨️ Learning AWS CLI and IaC for automation</h2>
 
-- [building a serverless API for CRUD operations]()(in progress...)
+- [building a serverless API for CRUD operations using AWS CLI]()(in progress...)
 - [Creating an S3 bucket with Terraform]()(Planned)
 - [Provisioning AWS Resources using Terraform]()(Planned)
 
@@ -23,6 +23,7 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 - [APIs with Lambda & API Gateway](https://github.com/Stivan1999/serverless-on-AWS/tree/main)
 - [Fetching Data with AWS Lambda]()(Planned)
 - [Launching a Kubernetes Cluster]()(Planned)
+- [Setting up Kubernetes Deployment]()(Planned)
 - [Monitoring EC2 Instances using AWS CloudWatch]()(Planned...)
 
 <h2>🚕 Understanding networking on AWS</h2>
