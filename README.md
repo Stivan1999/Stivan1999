@@ -19,8 +19,11 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 <h2>💻 Working with compute & storage services on AWS</h2>
 
 - [Hosting a static website with S3](https://github.com/Stivan1999/AWS-S3)
-- [Containers on Elastic Beanstalk](https://github.com/Stivan1999/Containers-on-elastic-beanstalk/blob/main/README.md)
+- [Containers on Elastic Beanstalk](https://github.com/Stivan1999/Containers-on-elastic-beanstalk/blob/main/README.md)(---revisit---)
 - [APIs with Lambda & API Gateway](https://github.com/Stivan1999/serverless-on-AWS/tree/main)
+- [Fetching Data with AWS Lambda]()(Planned)
+- [Launching a Kubernetes Cluster]()(Planned)
+- [Monitoring EC2 Instances using AWS CloudWatch]()(Planned...)
 
 <h2>🚕 Understanding networking on AWS</h2>
 
@@ -33,7 +36,7 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 - [VPC Monitoring with Flow Logs](https://github.com/Stivan1999/VPC-Monitoring-with-Flow-Logs)
 - [Accessing S3 from a VPC](https://github.com/Stivan1999/Accessing-S3-from-a-VPC)
 - [VPC Endpoints](https://github.com/Stivan1999/VPC-Endpoints)
-- [Website Delivery with AWS CloudFront](https://github.com/Stivan1999/website-delivery-with-aws-cloudfront/tree/main)
+- [Website Delivery with AWS CloudFront](https://github.com/Stivan1999/website-delivery-with-aws-cloudfront/tree/main)(--revisit--)
 
 
 
@@ -48,6 +51,8 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 - [Visualizing a Relational Database](https://github.com/Stivan1999/Visualize-a-Relational-Database)
 - [Aurora Database with EC2](https://github.com/Stivan1999/Aurora-Database-with-EC2)
 - [Connecting A Web App with Aurora](https://github.com/Stivan1999/connecting-a-web-app-with-aurora)
+- [Loading Data into DynamoDB]()(Planned)
+- [Querying Data with DynamoDB]()(Planned)
 
   
 <h2>:cloud::zap: AI/ML AWS labs and projects</h2>
@@ -61,6 +66,7 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 - [Google AI Essentials](https://www.credly.com/badges/7321607a-fa5e-4a4b-aafe-93c76f67a0b8/public_url)
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/8f760c7c-c99f-4700-b98d-d9d0e3ff1c27/public_url)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/16791b71-9505-41a7-84e5-c765c5f64467/public_url)
+- [AWS Certified Solutions Architect - Associate]()(In progress...)
 
 <h2> 🤳 Connect with me:</h2>
 
