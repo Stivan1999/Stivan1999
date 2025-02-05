@@ -21,9 +21,9 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 - [Hosting a static website with S3](https://github.com/Stivan1999/AWS-S3)
 - [Containers on Elastic Beanstalk](https://github.com/Stivan1999/Containers-on-elastic-beanstalk/blob/main/README.md)(---revisit---)
 - [APIs with Lambda & API Gateway](https://github.com/Stivan1999/serverless-on-AWS/tree/main)(2/15/2025)
-- [Fetching Data with AWS Lambda]()(Planned - 2/7/2025 - 2/8/2025)
-- [Launching a Kubernetes Cluster]()(Planned - 2/8/2025 - 2/9/2025)
-- [Setting up Kubernetes Deployment]()(Planned - 2/9/2025 - 2/10/2025)
+- [Fetching Data with AWS Lambda]()(Planned - 2/14/2025 - 2/15/2025)
+- [Launching a Kubernetes Cluster]()(Planned - 2/15/2025 - 2/16/2025)
+- [Setting up Kubernetes Deployment]()(Planned - 2/16/2025 - 2/17/2025)
 - [Monitoring EC2 Instances using AWS CloudWatch]()(Planned...)
 
 <h2>🚕 Understanding networking on AWS</h2>
