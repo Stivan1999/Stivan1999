@@ -12,17 +12,17 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 
 <h2>⌨️ Learning AWS CLI and IaC for automation</h2>
 
-- [building a serverless API for CRUD operations using AWS CLI]()(in progress...)
+- [building a serverless API for CRUD operations using AWS CLI]()(Planned 2/8/2025)
 - [Creating an S3 bucket with Terraform]()(Planned)
 - [Provisioning AWS Resources using Terraform]()(Planned)
 
 <h2>💻 Working with compute & storage services on AWS</h2>
 
 - [Hosting a static website with S3](https://github.com/Stivan1999/AWS-S3)
-- [Containers on Elastic Beanstalk](https://github.com/Stivan1999/Containers-on-elastic-beanstalk/blob/main/README.md)(---revisit--- Feb)
-- [APIs with Lambda & API Gateway](https://github.com/Stivan1999/serverless-on-AWS/tree/main)
-- [Fetching Data with AWS Lambda]()(Planned - Feb)
-- [Launching a Kubernetes Cluster]()(Planned - Feb)
+- [Containers on Elastic Beanstalk](https://github.com/Stivan1999/Containers-on-elastic-beanstalk/blob/main/README.md)(---revisit--- 2/8/2025)
+- [APIs with Lambda & API Gateway](https://github.com/Stivan1999/serverless-on-AWS/tree/main)(2/15/2025)
+- [Fetching Data with AWS Lambda]()(Planned - 2/16/2025)
+- [Launching a Kubernetes Cluster]()(Planned - 2/21/2025 - 2/22/2025)
 - [Setting up Kubernetes Deployment]()(Planned - Feb)
 - [Monitoring EC2 Instances using AWS CloudWatch]()(Planned...)
 
@@ -37,7 +37,7 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 - [VPC Monitoring with Flow Logs](https://github.com/Stivan1999/VPC-Monitoring-with-Flow-Logs)
 - [Accessing S3 from a VPC](https://github.com/Stivan1999/Accessing-S3-from-a-VPC)
 - [VPC Endpoints](https://github.com/Stivan1999/VPC-Endpoints)
-- [Website Delivery with AWS CloudFront](https://github.com/Stivan1999/website-delivery-with-aws-cloudfront/tree/main)(--revisit-- Feb)
+- [Website Delivery with AWS CloudFront](https://github.com/Stivan1999/website-delivery-with-aws-cloudfront/tree/main)(--revisit-- 2/15/2025)
 
 
 
