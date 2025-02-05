@@ -45,7 +45,8 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 
 - [Encrypting Data with AWS KMS](https://github.com/Stivan1999/encrypting-data-with-aws-kms/tree/main)
 - [Threat Detction with GuardDuty](https://github.com/Stivan1999/AWS-GuardDuty/tree/main)
-
+- [Using AWS WAF to Protect Web Applications]()(Planned)
+- []
 
 <h2>💾 Exploring database services on AWS</h2>
 
