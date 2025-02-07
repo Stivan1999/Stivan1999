@@ -15,6 +15,7 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 - [building a serverless API for CRUD operations using AWS CLI]()(Planned 2/22/2025)
 - [Creating an S3 bucket with Terraform]()(Planned)
 - [Provisioning AWS Resources using Terraform]()(Planned)
+- [Infrastructure as Code (IaC) with AWS CloudFormation, AWS SAM, and Terraform]()(Planned)
 
 <h2>💻 Working with compute & storage services on AWS</h2>
 
