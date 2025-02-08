@@ -54,7 +54,7 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 - [Visualizing a Relational Database](https://github.com/Stivan1999/Visualize-a-Relational-Database)
 - [Aurora Database with EC2](https://github.com/Stivan1999/Aurora-Database-with-EC2)
 - [Connecting A Web App with Aurora](https://github.com/Stivan1999/connecting-a-web-app-with-aurora)
-- [Loading Data into DynamoDB]()(Planned)
+- [Loading Data into DynamoDB](https://github.com/Stivan1999/AWS-DynamoDB-part-1)
 - [Querying Data with DynamoDB]()(Planned)
 
   
