@@ -3,7 +3,7 @@ I am an engineer with a background in Electrical and Software Engineering, along
 
 <br>Recently, I’ve been exploring cloud computing, building hands-on AWS projects to expand my skills. I enjoy documenting my work, creating clear technical resources, and simplifying complex concepts for others. My passion lies in collaborating with people, understanding their needs, and delivering effective cloud-based solutions.
 
-I’ve earned the AWS Cloud Practitioner certification and am preparing for the AWS Certified Sysops adminstrator - Associate Certification. My goal is to secure a cloud-focused role where I can leverage my technical expertise and problem-solving mindset to help people solve problems in the cloud. 
+I’ve earned the AWS Certified Solutions Architect - Associate certification and am preparing for the AWS Certified Sysops adminstrator - Associate Certification. My goal is to secure a cloud-focused role where I can leverage my technical expertise and problem-solving mindset to help people solve problems in the cloud. 
 
 <h2>🐍 Python Scripting projects:</h2>
 
@@ -20,11 +20,13 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 <h2>💻 Working with compute & storage services on AWS</h2>
 
 - [Hosting a static website with S3](https://github.com/Stivan1999/AWS-S3)
-- [Containers on Elastic Beanstalk](https://github.com/Stivan1999/Containers-on-elastic-beanstalk/blob/main/README.md)(---revisit---)
+- [Containers on Elastic Beanstalk](https://github.com/Stivan1999/Containers-on-elastic-beanstalk/blob/main/README.md)
 - [APIs with Lambda & API Gateway](https://github.com/Stivan1999/serverless-on-AWS/tree/main)(2/15/2025)
 - [Fetching Data with AWS Lambda]()(Planned - 2/14/2025 - 2/15/2025)
-- [Launching a Kubernetes Cluster]()(Planned - 2/15/2025 - 2/16/2025)
-- [Setting up Kubernetes Deployment]()(Planned - 2/16/2025 - 2/17/2025)
+- [Launching a Kubernetes Cluster]()(In progress...)
+- [Setting up Kubernetes Deployment]()(Planned)
+- [Creatig kubernetes Deployment]()(Planned)
+- [Deploying Backend with Kubernetes]()(Planned)
 - [Monitoring EC2 Instances using AWS CloudWatch]()(Planned...)
 
 <h2>🚕 Understanding networking on AWS</h2>
@@ -38,7 +40,7 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 - [VPC Monitoring with Flow Logs](https://github.com/Stivan1999/VPC-Monitoring-with-Flow-Logs)
 - [Accessing S3 from a VPC](https://github.com/Stivan1999/Accessing-S3-from-a-VPC)
 - [VPC Endpoints](https://github.com/Stivan1999/VPC-Endpoints)
-- [Website Delivery with AWS CloudFront](https://github.com/Stivan1999/website-delivery-with-aws-cloudfront/tree/main)(--revisit-- 2/15/2025)
+- [Website Delivery with AWS CloudFront](https://github.com/Stivan1999/website-delivery-with-aws-cloudfront/tree/main)(--revisit--)
 
 
 
@@ -47,7 +49,6 @@ I’ve earned the AWS Cloud Practitioner certification and am preparing for the 
 - [Encrypting Data with AWS KMS](https://github.com/Stivan1999/encrypting-data-with-aws-kms/tree/main)
 - [Threat Detction with GuardDuty](https://github.com/Stivan1999/AWS-GuardDuty/tree/main)
 - [Using AWS WAF to Protect Web Applications]()(Planned)
-- []
 
 <h2>💾 Exploring database services on AWS</h2>
 
