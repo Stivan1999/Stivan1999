@@ -24,7 +24,7 @@ I’ve earned the AWS Certified Solutions Architect - Associate certification an
 - [APIs with Lambda & API Gateway](https://github.com/Stivan1999/serverless-on-AWS/tree/main)(2/15/2025)
 - [Fetching Data with AWS Lambda]()(Planned - 2/14/2025 - 2/15/2025)
 - [Launching a Kubernetes Cluster](https://github.com/Stivan1999/Launching-a-Kubernetes-Cluster)
-- [Setting up Kubernetes Deployment]()(Planned)
+- [Setting up Kubernetes Deployment](https://github.com/Stivan1999/setting-up-Kubernetes-deployment/tree/main)
 - [Creatig kubernetes Deployment]()(Planned)
 - [Deploying Backend with Kubernetes]()(Planned)
 - [Monitoring EC2 Instances using AWS CloudWatch]()(Planned...)
