@@ -12,7 +12,6 @@ I’ve earned the AWS Certified Solutions Architect - Associate certification an
 
 <h2>⌨️ Learning AWS CLI and IaC for automation</h2>
 
-- [building a serverless API for CRUD operations using AWS CLI]()(Planned 2/22/2025)
 - [Creating an S3 bucket with Terraform]()(Planned)
 - [Provisioning AWS Resources using Terraform]()(Planned)
 - [Infrastructure as Code (IaC) with AWS CloudFormation, AWS SAM, and Terraform]()(Planned)
