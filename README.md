@@ -63,6 +63,7 @@ I’ve earned the AWS Certified Solutions Architect - Associate certification an
 
 - [Using AWS Recognition and Textract](https://github.com/Stivan1999/AWS-Machine-Learning-Services/blob/main/README.md) (needs updating...)
 - [Transcribe Audio Files with AI](https://github.com/Stivan1999/AWS-Transcribe/tree/main)
+- [Building a RAG chatbot using AWS Bedrock]()(Planned)
 
 
 <h2>📝 Certifications</h2>
