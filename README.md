@@ -1,5 +1,5 @@
 <h1>Hi, I'm Youssef! <br/></h1>
-I am an engineer with a background in Electrical and Software Engineering, along with 2.5 years of experience working with production code in Java. My career has strengthened my technical skills, teamwork, and ability to communicate complex ideas clearly. I also learnt scripting languages such as Python to automate tasks.
+I am an engineer with a background in Electrical and Software Engineering, along with 2.5 years of experience working with production code in Java. My career has strengthened my technical skills, teamwork, and ability to communicate complex ideas clearly. I also learnt scripting languages such as Python to automate task.
 
 <br>Recently, I’ve been exploring cloud computing, building hands-on AWS projects to expand my skills. I enjoy documenting my work, creating clear technical resources, and simplifying complex concepts for others. My passion lies in collaborating with people, understanding their needs, and delivering effective cloud-based solutions.
 
@@ -67,7 +67,7 @@ I’ve earned the AWS Certified Solutions Architect - Associate certification an
 - [Google AI Essentials](https://www.credly.com/badges/7321607a-fa5e-4a4b-aafe-93c76f67a0b8/public_url)
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/8f760c7c-c99f-4700-b98d-d9d0e3ff1c27/public_url)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/16791b71-9505-41a7-84e5-c765c5f64467/public_url)
-- [AWS Certified Solutions Architect - Associate]()(In progress...)
+- [AWS Certified AI Practitioner]()(In progress...)
 
 <h2> 🤳 Connect with me:</h2>
 
