@@ -1,65 +1,72 @@
 <h1>Hi, I'm Youssef! <br/></h1>
 I am an engineer with a background in Electrical and Software Engineering, along with 2.5 years of experience working with production code in Java. My career has strengthened my technical skills, teamwork, and ability to communicate complex ideas clearly. I also learnt scripting languages such as Python to automate task.
 
-<br>Recently, I’ve been exploring cloud computing, building hands-on AWS projects to expand my skills. I enjoy documenting my work, creating clear technical resources, and simplifying complex concepts for others. My passion lies in collaborating with people, understanding their needs, and delivering effective cloud-based solutions.
+<br>[placholder]
 
-I’ve earned the AWS Certified Solutions Architect - Associate certification and am preparing for the AWS Certified Sysops adminstrator - Associate Certification. My goal is to secure a cloud-focused role where I can leverage my technical expertise and problem-solving mindset to help people solve problems in the cloud. 
+[placeholder]
 
-<h2>🐍 Python Scripting projects:</h2>
+<details><summary><h2>🐍 Python Scripting projects:</h2></summary><br>
 
 - [DDOP Extractor](https://github.com/Stivan1999/python_project_1)
 - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
 
-<h2>⌨️ Learning AWS CLI and IaC for automation</h2>
+</details>
 
-- [Creating an S3 bucket with Terraform]()(Planned)
-- [Provisioning AWS Resources using Terraform]()(Planned)
-- [Infrastructure as Code (IaC) with AWS CloudFormation, AWS SAM, and Terraform]()(Planned)
-
-<h2>💻 Working with compute & storage services on AWS</h2>
-
-- [Hosting a static website with S3](https://github.com/Stivan1999/AWS-S3)
-- [Containers on Elastic Beanstalk](https://github.com/Stivan1999/Containers-on-elastic-beanstalk/blob/main/README.md)
-- [APIs with Lambda & API Gateway](https://github.com/Stivan1999/serverless-on-AWS/tree/main)(2/15/2025)
-- [Fetching Data with AWS Lambda]()(Planned - 2/14/2025 - 2/15/2025)
-- [Deploying a containerized application using AWS EKS](https://github.com/Stivan1999/Launching-a-Kubernetes-Cluster)
-- [Monitoring EC2 Instances using AWS CloudWatch]()(Planned...)
-
-<h2>🚕 Understanding networking on AWS</h2>
-
-- [Building a Virtual Private Cloud](https://github.com/Stivan1999/AWS-VPC)
-- [VPC Traffic Flow and Security](https://github.com/Stivan1999/VPC-Flow-Traffic-and-Security/blob/main/README.md)
-- [Creating a Private Subnet](https://github.com/Stivan1999/AWS-Private-Subnet/blob/main/README.md)
-- [Launching VPC Resources](https://github.com/Stivan1999/launching-vpc-resources/tree/main)
-- [Testing VPC Connectivity](https://github.com/Stivan1999/Testing-VPC-Connectivity/tree/main)
-- [VPC Peering](https://github.com/Stivan1999/VPC-peering)
-- [VPC Monitoring with Flow Logs](https://github.com/Stivan1999/VPC-Monitoring-with-Flow-Logs)
-- [Accessing S3 from a VPC](https://github.com/Stivan1999/Accessing-S3-from-a-VPC)
-- [VPC Endpoints](https://github.com/Stivan1999/VPC-Endpoints)
-- [Website Delivery with AWS CloudFront](https://github.com/Stivan1999/website-delivery-with-aws-cloudfront/tree/main)(--revisit--)
-
-
-
-<h2>🔐 Security on AWS</h2>
-
-- [Encrypting Data with AWS KMS](https://github.com/Stivan1999/encrypting-data-with-aws-kms/tree/main)
-- [Threat Detction with GuardDuty](https://github.com/Stivan1999/AWS-GuardDuty/tree/main)
-- [Using AWS WAF to Protect Web Applications]()(Planned)
-
-<h2>💾 Exploring database services on AWS</h2>
-
-- [Visualizing a Relational Database](https://github.com/Stivan1999/Visualize-a-Relational-Database)
-- [Aurora Database with EC2](https://github.com/Stivan1999/Aurora-Database-with-EC2)
-- [Connecting A Web App with Aurora](https://github.com/Stivan1999/connecting-a-web-app-with-aurora)
-- [Loading Data into DynamoDB](https://github.com/Stivan1999/AWS-DynamoDB-part-1)
-- [Querying Data with DynamoDB]()(Planned)
-
+<details><summary><h2>☁️ Cloud Projects (AWS)</h2></summary><br>
   
-<h2>:cloud::zap: AI/ML AWS labs and projects</h2>
+  <h2>⌨️ Learning AWS CLI and IaC for automation</h2>
+  
+  - [Creating an S3 bucket with Terraform]()(Planned)
+  - [Provisioning AWS Resources using Terraform]()(Planned)
+  - [Infrastructure as Code (IaC) with AWS CloudFormation, AWS SAM, and Terraform]()(Planned)
+  
+  <h2>💻 Working with compute & storage services on AWS</h2>
+  
+  - [Hosting a static website with S3](https://github.com/Stivan1999/AWS-S3)
+  - [Containers on Elastic Beanstalk](https://github.com/Stivan1999/Containers-on-elastic-beanstalk/blob/main/README.md)
+  - [APIs with Lambda & API Gateway](https://github.com/Stivan1999/serverless-on-AWS/tree/main)(2/15/2025)
+  - [Fetching Data with AWS Lambda]()(Planned - 2/14/2025 - 2/15/2025)
+  - [Deploying a containerized application using AWS EKS](https://github.com/Stivan1999/Launching-a-Kubernetes-Cluster)
+  - [Monitoring EC2 Instances using AWS CloudWatch]()(Planned...)
+  
+  <h2>🚕 Understanding networking on AWS</h2>
+  
+  - [Building a Virtual Private Cloud](https://github.com/Stivan1999/AWS-VPC)
+  - [VPC Traffic Flow and Security](https://github.com/Stivan1999/VPC-Flow-Traffic-and-Security/blob/main/README.md)
+  - [Creating a Private Subnet](https://github.com/Stivan1999/AWS-Private-Subnet/blob/main/README.md)
+  - [Launching VPC Resources](https://github.com/Stivan1999/launching-vpc-resources/tree/main)
+  - [Testing VPC Connectivity](https://github.com/Stivan1999/Testing-VPC-Connectivity/tree/main)
+  - [VPC Peering](https://github.com/Stivan1999/VPC-peering)
+  - [VPC Monitoring with Flow Logs](https://github.com/Stivan1999/VPC-Monitoring-with-Flow-Logs)
+  - [Accessing S3 from a VPC](https://github.com/Stivan1999/Accessing-S3-from-a-VPC)
+  - [VPC Endpoints](https://github.com/Stivan1999/VPC-Endpoints)
+  - [Website Delivery with AWS CloudFront](https://github.com/Stivan1999/website-delivery-with-aws-cloudfront/tree/main)(--revisit--)
+  
+  
+  
+  <h2>🔐 Security on AWS</h2>
+  
+  - [Encrypting Data with AWS KMS](https://github.com/Stivan1999/encrypting-data-with-aws-kms/tree/main)
+  - [Threat Detction with GuardDuty](https://github.com/Stivan1999/AWS-GuardDuty/tree/main)
+  - [Using AWS WAF to Protect Web Applications]()(Planned)
+  
+  <h2>💾 Exploring database services on AWS</h2>
+  
+  - [Visualizing a Relational Database](https://github.com/Stivan1999/Visualize-a-Relational-Database)
+  - [Aurora Database with EC2](https://github.com/Stivan1999/Aurora-Database-with-EC2)
+  - [Connecting A Web App with Aurora](https://github.com/Stivan1999/connecting-a-web-app-with-aurora)
+  - [Loading Data into DynamoDB](https://github.com/Stivan1999/AWS-DynamoDB-part-1)
+  - [Querying Data with DynamoDB]()(Planned)
+
+  </details>
+  
+<h2>:cloud::zap: Projects leveraging AI tools</h2>
 
 - [Using AWS Recognition and Textract](https://github.com/Stivan1999/AWS-Machine-Learning-Services/blob/main/README.md) (needs updating...)
 - [Transcribe Audio Files with AI](https://github.com/Stivan1999/AWS-Transcribe/tree/main)
 - [Building a RAG chatbot using AWS Bedrock]()(Planned)
+- [Prompt Engineering]()(planned)
+- [Learning to use DeepSeek]()(planned)
 
 
 <h2>📝 Certifications</h2>
