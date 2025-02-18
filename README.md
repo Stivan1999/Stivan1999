@@ -10,18 +10,17 @@ I’ve earned the AWS Certified Solutions Architect - Associate certification an
 - [DDOP Extractor](https://github.com/Stivan1999/python_project_1)
 - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
 
-<h2>⌨️ Learning AWS CLI and IaC for automation</h2>
+<h2>⌨️ DevOps & IaC with AWS</h2>
 
 - [Creating an S3 bucket with Terraform]()(Planned)
-- [Provisioning AWS Resources using Terraform]()(Planned)
-- [Infrastructure as Code (IaC) with AWS CloudFormation, AWS SAM, and Terraform]()(Planned)
+- [CI/CD pipeline using AWS native services and CloudFormation]()(planned)
 
 <h2>💻 Working with compute & storage services on AWS</h2>
 
 - [Hosting a static website with S3](https://github.com/Stivan1999/AWS-S3)
 - [Containers on Elastic Beanstalk](https://github.com/Stivan1999/Containers-on-elastic-beanstalk/blob/main/README.md)
-- [APIs with Lambda & API Gateway](https://github.com/Stivan1999/serverless-on-AWS/tree/main)(2/15/2025)
-- [Fetching Data with AWS Lambda]()(Planned - 2/14/2025 - 2/15/2025)
+- [APIs with Lambda & API Gateway](https://github.com/Stivan1999/serverless-on-AWS/tree/main)
+- [Fetching Data with AWS Lambda]()(??Planned??)
 - [Deploying a containerized application using AWS EKS](https://github.com/Stivan1999/Launching-a-Kubernetes-Cluster)
 - [Monitoring EC2 Instances using AWS CloudWatch]()(Planned...)
 
@@ -55,11 +54,13 @@ I’ve earned the AWS Certified Solutions Architect - Associate certification an
 - [Querying Data with DynamoDB]()(Planned)
 
   
-<h2>:cloud::zap: AI/ML AWS labs and projects</h2>
+<h2>:cloud::zap: AI/ML labs and projects</h2>
 
 - [Using AWS Recognition and Textract](https://github.com/Stivan1999/AWS-Machine-Learning-Services/blob/main/README.md) (needs updating...)
 - [Transcribe Audio Files with AI](https://github.com/Stivan1999/AWS-Transcribe/tree/main)
 - [Building a RAG chatbot using AWS Bedrock]()(Planned)
+- [Prompt Engineering]()(planned)
+- [Deploying a Machine Larning Model with Amazon SageMaker]()(planned)
 
 
 <h2>📝 Certifications</h2>
