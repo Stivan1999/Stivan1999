@@ -1,9 +1,6 @@
 <h1>Hi, I'm Youssef! <br/></h1>
 I am an engineer with a background in Electrical and Software Engineering, along with 2.5 years of experience working with production code in Java. My career has strengthened my technical skills, teamwork, and ability to communicate complex ideas clearly. I also learnt scripting languages such as Python to automate task.
 
-<br>Recently, I’ve been exploring cloud computing, building hands-on AWS projects to expand my skills. I enjoy documenting my work, creating clear technical resources, and simplifying complex concepts for others. My passion lies in collaborating with people, understanding their needs, and delivering effective cloud-based solutions.
-
-I’ve earned the AWS Certified Solutions Architect - Associate certification and am preparing for the AWS Certified Sysops adminstrator - Associate Certification. My goal is to secure a cloud-focused role where I can leverage my technical expertise and problem-solving mindset to help people solve problems in the cloud. 
 
 <h2>🐍 Python Scripting projects:</h2>
 
