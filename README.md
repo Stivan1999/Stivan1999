@@ -1,5 +1,11 @@
+<h2>About Me</h2>
 
+Hi, my name is Youssef. I have a strong engineering background that includes my bachelor degree in Electrical Engineering and three yeas
+of exprience working as a software engineer in the agriculture industry. I have a passion for learning how technology works, building products that leverage AI solutions,
+and continusely learning and researching about technology.
 
+I have a strategic mindset and enjoy looking at problems and solutions using a big picture lense. Currently focused on developing real-world projects using cutting-edge tools like ChatGPT, 
+Hugging Face, and agent-based automation frameworks to drive intelligent business solutions.
 
 <h2>🐍 Python Scripting projects (work experience):</h2>
 
@@ -7,7 +13,7 @@
 - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
 
 
-<h2>🛺 AI Automation Projects</h2>
+<h2>🛺 AI Automation</h2>
 
 
 <h2>:thought_balloon: Prompt Engineering and using AI tools</h2>
@@ -16,7 +22,7 @@
 
 <h2>:construction: RAG & fine-tuning for LLMs</h2>
 
-<h2>🤖 Building AI agents with Crew AI and AWS</h2>
+<h2>🤖 Building AI agents</h2>
 
 <h2>🌩️ AI/ML on AWS using Bedrock and SageMaker </h2>
 
