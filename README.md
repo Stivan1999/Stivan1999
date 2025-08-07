@@ -20,8 +20,10 @@ While I have a strong foundation in software development, I thrive most in roles
 
 <h2>:thought_balloon: Prompt Engineering and using AI tools (ChatGPT, DeepSeek, NoteBookLM, Perplexity)</h2>
 
-- 
+- [Prompt Engineering Bootcamp (Woring with LLMs)](In progress...)
 - Prompt Engineering for ChatGPT
+- How to use DeepSeek
+- Using ChatGPT Code Interpreter 
 
 <h2>:construction: RAG & fine-tuning for LLMs</h2>
 
