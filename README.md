@@ -2,11 +2,6 @@
 
 <h2>About Me</h2>
 
-Hi, I'm Youssef — a technologist with a background in Electrical Engineering and three years of experience as a software engineer in the agriculture industry. I'm passionate about learning how technology works, and I'm especially drawn to the intersection of AI, automation, and strategic problem solving.
-
-I’m currently focused on learning AI by completing courses and  building real-world projects that apply cutting-edge tools like ChatGPT, Hugging Face, and agent-based workflow automation frameworks. My goal is to use AI to design intelligent, human-centered solutions that solve real business problems.
-
-While I have a strong foundation in software development, I thrive most in roles that involve big-picture thinking, system design, collaboration, and translating technical tools into meaningful outcomes. I'm actively building a portfolio to demonstrate my AI capabilities and prepare for roles at the intersection of AI, product strategy, and responsible technology leadership.
 
 
 <h2>🐍 Python Scripting projects (work experience):</h2>
