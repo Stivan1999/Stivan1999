@@ -17,8 +17,7 @@
 
 - [Prompt Engineering Bootcamp (Woring with LLMs)](In progress...)
 - Prompt Engineering for ChatGPT
-- How to use DeepSeek
-- Using ChatGPT Code Interpreter 
+- [Working with DeepSeek](https://github.com/Stivan1999/Working-with-DeepSeek/tree/main)
 
 <h2>:construction: RAG & fine-tuning for LLMs</h2>
 
