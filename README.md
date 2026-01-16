@@ -5,6 +5,7 @@ My background in technical engineering has disciplined me in systematic problem 
 
 My goal is to leverage AI tools to automate workflows, generate content, and integrate intelligent systems into finance and operations, moving away from isolated coding tasks towards high-impact business integration.
 
+icons go here...
 
 <h2>🐍 Python Scripting projects (work experience):</h2>
 
@@ -12,7 +13,7 @@ My goal is to leverage AI tools to automate workflows, generate content, and int
 - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
 
 
-<h2>🛺 AI Automation</h2>
+<h2>🛺 AI Automation Projetcs</h2>
 
 
 <h2>📝 Certifications and Training</h2>
