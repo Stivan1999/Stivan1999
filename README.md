@@ -7,18 +7,18 @@ My goal is to leverage AI tools to automate workflows, generate content, and int
 
 icons go here...
 
+<h2>📝🤖 Articles and foundational knowledge of AI</h2>
+
+
 <h2>🐍 Python Scripting projects (work experience):</h2>
 
 - [DDOP Extractor](https://github.com/Stivan1999/python_project_1)
 - [CAN to DDOP converter](https://github.com/Stivan1999/python_project_2) <b><i></b></i>
 
 
-<h2>🛺 AI Automation Projetcs</h2>
-
 
 <h2>📝 Certifications and Training</h2>
 
-- [Google AI Essentials](https://www.credly.com/badges/7321607a-fa5e-4a4b-aafe-93c76f67a0b8/public_url)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/16791b71-9505-41a7-84e5-c765c5f64467/public_url)
 - [Google Prompting Essentials]
 
