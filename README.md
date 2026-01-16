@@ -1,7 +1,9 @@
 <h2>About Me</h2>
+I am an engineer with 3.5 years of experience transitioning into the world of AI Automation.
 
-<h2>About Me</h2>
+My background in technical engineering has disciplined me in systematic problem solving and process optimization. Now, I am applying that rigor to business operations.
 
+My goal is to leverage AI tools to automate workflows, generate content, and integrate intelligent systems into finance and operations, moving away from isolated coding tasks towards high-impact business integration.
 
 
 <h2>🐍 Python Scripting projects (work experience):</h2>
@@ -13,30 +15,11 @@
 <h2>🛺 AI Automation</h2>
 
 
-<h2>:thought_balloon: Prompt Engineering and using AI tools (ChatGPT, DeepSeek, NoteBookLM, Perplexity)</h2>
-
-- [Prompt Engineering Bootcamp (Woring with LLMs)](In progress...)
-- Prompt Engineering for ChatGPT
-- [Working with DeepSeek](https://github.com/Stivan1999/Working-with-DeepSeek/tree/main)
-
-<h2>:construction: RAG & fine-tuning for LLMs</h2>
-
-<h2>🤖 Building AI agents</h2>
-
-<h2>🌩️ AI/ML on AWS using Bedrock and SageMaker </h2>
-
-<h2>🔗 Building AI Apps with OpenAI and gemeni API</h2>
-
-- Talking with an image APP
-- Image Organization AI App
-
 <h2>📝 Certifications and Training</h2>
 
 - [Google AI Essentials](https://www.credly.com/badges/7321607a-fa5e-4a4b-aafe-93c76f67a0b8/public_url)
-- [Google Cybersecurity Certificate](https://www.credly.com/badges/8f760c7c-c99f-4700-b98d-d9d0e3ff1c27/public_url)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/16791b71-9505-41a7-84e5-c765c5f64467/public_url)
-- [Google Prompting Essentials] (In progress...)
-- [AWS Certified AI Practitioner] (Planned...)
+- [Google Prompting Essentials]
 
 <h2> 🤳 Connect with me:</h2>
 
